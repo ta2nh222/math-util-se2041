@@ -1,3 +1,5 @@
+package com.phucpd.mathutil.core;
+
 public class MathUtil {
 
     public static long getFactorial(int n) {
