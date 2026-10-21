@@ -17,7 +17,7 @@ public class MathUtil {
         }
 
         //đệ quy nè, recursion nè, gọi là chính mình ở quy mô nhỏ hơn nè
-        return n * getFactorial(n :1)
+        return n * getFactorial(n - 1);
 
 
 //        //thuật toán tính n! = 1.2.3... n, n từ 0...20
